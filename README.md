@@ -1,2 +1,2 @@
 # Code-Portfolio
-A portfolio of my C++ and Python past programs
+A portfolio of my past Python programs
